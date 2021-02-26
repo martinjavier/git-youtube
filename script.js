@@ -1,0 +1,1 @@
+document.write("Este es un mensaje");
